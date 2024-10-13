@@ -1,0 +1,5 @@
+[versions]
+
+[libraries]
+spring-boot-web = { module = "org.springframework.boot:spring-boot-starter-web" }
+spring-boot-test = { module = "org.springframework.boot:spring-boot-starter-test" }
